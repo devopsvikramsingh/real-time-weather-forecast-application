@@ -16,7 +16,7 @@ class WeatherScreen extends StatefulWidget {
 
 class _WeatherScreenState extends State<WeatherScreen> {
   late Future<Map<String, dynamic>> weather;
-  String cityName = ""; // default city
+  String cityName = "delhi"; // default city
   final TextEditingController _searchController = TextEditingController();
 
   // Keep track of recent searched cities
