@@ -1,5 +1,7 @@
 # 🌤️ Weather App
 
+** My project is in the master branch.
+
 ## ✨ Project Overview
 
 The **Weather App** provides **real-time weather information** for any location worldwide.
