@@ -1,6 +1,8 @@
 # 🌤️ Weather App
 
 ** My project is in the master branch.
+1-go to branch option ,click on master branch , 
+2-check my code.
 
 ## ✨ Project Overview
 
